@@ -2,7 +2,6 @@
 ## This script can parse Title,Discription, counters : Views, Likes, Dislikes
 
 * Paste into $url you link 
-
 * Answer in json
 
 ```{
@@ -11,4 +10,4 @@
   "likes": 6736569,
   "dislikes": 716260,
   "views": "912,119,681 views"
-}```
+}
