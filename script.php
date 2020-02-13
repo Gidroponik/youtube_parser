@@ -31,7 +31,7 @@ $title = $kek2['contents']['twoColumnWatchNextResults']['results']['results']['c
 // Output Array
 $arr = [
 'title'=>$title,
-'disciption'=>$disc,
+'desciption'=>$disc,
 'likes'=>$like,
 'dislikes'=>$dislike,
 'views'=>$views
