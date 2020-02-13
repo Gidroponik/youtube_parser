@@ -1,9 +1,9 @@
 # Php youtube parser
 
 ### This script can parse:
-* Title of Video
-* Description
-* Counters:
+* Title YT video
+* Description YT video
+* Counters YT video:
   * Views
   * Likes
   * Dislikes
