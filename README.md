@@ -2,6 +2,13 @@
 ## This script can parse Title, Discription, counters : Views, Likes, Dislikes of Youtube Video
 
 * Paste into $url you link 
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
 
 ### Answer in json
 ```{
