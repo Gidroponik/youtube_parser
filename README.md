@@ -1,5 +1,5 @@
-# youtube_parser
-This script can parse Title,Discription, counters : Views, Likes, Dislikes
+# Php youtube parser
+# This script can parse Title,Discription, counters : Views, Likes, Dislikes
 
 Paste into $url you link 
 
